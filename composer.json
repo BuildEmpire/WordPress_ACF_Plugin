@@ -1,0 +1,13 @@
+{
+    "name": "buildempire/acf-58-beta",
+    "license": "proprietary",
+    "description": "access acf beta via composer",
+    "type": "wordpress-plugin",
+    "authors": [
+        {
+            "name": "Jez Cowley",
+            "email": "jez.cowley@buildempire.com"
+        }
+    ],
+    "require": {}
+}
